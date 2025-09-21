@@ -68,7 +68,7 @@ cd StayEase
 
 1.  Navigate to the backend directory:
     ```bash
-    cd Backend
+    cd spring-backend
     ```
 2.  **Create your configuration file**:
     - Inside the `src/main/resources/` directory, create a new file named `application.properties`.
@@ -88,7 +88,7 @@ cd StayEase
 
 1.  Navigate to the frontend directory:
     ```bash
-    cd ../Frontend
+    cd ../react-frontend
     ```
 2.  **Install dependencies**:
     ```bash
